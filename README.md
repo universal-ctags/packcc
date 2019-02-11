@@ -379,3 +379,12 @@ int main() {
     return 0;
 }
 ```
+
+# About this forked repository
+
+Universal-ctags project (https://ctags.io) starts this repository
+forked from https://github.com/enechaev/packcc to adjust packcc
+meeting to the requirements of the ctags implementation.
+
+Even if you don't have interests in ctags, contributions to packcc are
+welcome.
