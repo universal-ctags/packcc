@@ -1,3 +1,5 @@
+.deps
+.dirstamp
 *.o
 a.out
 packcc
